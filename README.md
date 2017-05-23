@@ -1,9 +1,5 @@
 # ML-Sentiment-Analysis-of-Movie-Reviews-from-Twitter
 
-===========================================================================================================
-This is a README File for Movie Review Analysis using Sentiments from Twitter Data
-===========================================================================================================
-
 <h3>STEPS TO RUN THE CODE:</h3>
 	1. The Data folder consists of all the Datsets that have been used in the Project.
 	2. The twitter data to be generated needs security credentials.
