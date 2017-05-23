@@ -1,6 +1,6 @@
 # ML-Sentiment-Analysis-of-Movie-Reviews-from-Twitter
 
-<h3>STEPS TO RUN THE CODE:</h3>
+### STEPS TO RUN THE CODE:
 	1. The Data folder consists of all the Datsets that have been used in the Project.
 	2. The twitter data to be generated needs security credentials.
 	3. After getting the credentials replace it in config.json file present in Code folder.
